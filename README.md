@@ -25,8 +25,3 @@
 <a href="https://t.me/fra23i" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="fra23i" /></a>
 </p>
 
-<h3 align="left">Inspiration:</h3>
-<p align="left">
-  This template is inspired by 
-<a href="https://github.com/fillics">github</a>
-</p>
