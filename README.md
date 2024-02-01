@@ -5,7 +5,7 @@
 
 🎓 MSc student in Computer Science Engineering at Politecnico di Milano
 
-🌱 Interested in Machine learning, Deep learning and Software Development
+🌱 Interested in Data Science, Machine Learning and Software Development
 
 ### I am also into
 - ⚽ football <br />
